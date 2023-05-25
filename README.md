@@ -2,8 +2,8 @@
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning Java and C++.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to contact :
-- Email:  Davicandidodeoliveira2002@gmail.com.
+- 📫 How to contact :Email Davicandidodeoliveira2002@gmail.com.
+
 
 
 <!---
