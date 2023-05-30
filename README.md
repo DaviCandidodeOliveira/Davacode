@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Davacode
-- 👀 I’m interested in programing.
-- 🌱 I’m currently learning Java and C++
-- 📫 How to contact :Email Davicandidodeoliveira2002@gmail.com.
+- 👋 Oi, eu sou @Davacode
+- 👀 Estou interessadon em programação.
+- 🌱 Estou  atualmente aprendendo Java  C++
+- 📫 Me contate no Email: Davicandidodeoliveira2002@gmail.com.
 
 
 
