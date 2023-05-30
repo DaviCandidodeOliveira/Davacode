@@ -1,7 +1,7 @@
-- 👋 Oi, eu sou @Davacode
-- 👀 Estou interessadon em programação.
-- 🌱 Estou  atualmente aprendendo Java  C++
-- 📫 Me contate no Email: Davicandidodeoliveira2002@gmail.com.
+-  Oi, eu sou @Davacode
+-  Estou interessadon em programação.
+-  Estou  atualmente aprendendo Java  C++
+-  Me contate no Email: Davicandidodeoliveira2002@gmail.com.
 
 
 
